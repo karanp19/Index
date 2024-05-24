@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10TesAiMvLQ5V7PIdgpyjWblb6DYq3O8G/view?usp=sharing](https://drive.google.com/file/d/10TesAiMvLQ5V7PIdgpyjWblb6DYq3O8G/view?usp=sharing)
 
-- ⚡ Fun fact **I have a intrst in Astronomy and String theory of universe**
+- ⚡ Fun fact **I have a intrest in Astronomy and String theory of universe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
