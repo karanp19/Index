@@ -5,7 +5,7 @@
 
 - I have worked on Amdocs as a **Software Developer**
 
-- 🌱 I’m currently learning **Ruby On Rails**
+- 🌱 I’m currently learning about **Quantum Databases**
 
 - 💬 Ask me about **Java,React and AWS Services**
 
