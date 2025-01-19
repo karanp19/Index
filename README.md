@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanp19&label=Profile%20views&color=0e75b6&style=flat" alt="karanp19" /> </p>
 
-- I have worked on Allstate as a **Software development Consultant**
+- I am working in Allstate as a **Software development Consultant**
 
 - 🌱 I’m currently learning about **Quantum Databases**
 
