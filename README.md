@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanp19&label=Profile%20views&color=0e75b6&style=flat" alt="karanp19" /> </p>
 
-- I have worked on Amdocs as a **Software Developer**
+- I have worked on Allstate as a **Software development Consultant**
 
 - 🌱 I’m currently learning about **Quantum Databases**
 
-- 💬 Ask me about **Java,React and AWS Services**
+- 💬 Ask me about **Java,Angular and AWS Services**
 
 - 📫 How to reach me **karanphatnani19@gmail.com**
 
